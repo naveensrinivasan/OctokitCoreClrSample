@@ -41,6 +41,6 @@ Here is my nuget.config changes to include `my own` the location for the `Octoki
 
 * Clone the repo
 * Include the location to Nuget.config to locate `Octokit.0.17.0-beta.nupkg`
-* `dun restore`
+* `dnu restore`
 * `dnu build --framework dnxcore50`
 * `dnx ConsoleApplication`
